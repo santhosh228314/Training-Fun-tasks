@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Georgia, serif;
+}
+body{
+    background-color: rgb(251, 240, 240);
+}
+
+.header{
+    background-color: #007bff;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+.first-box{
+    background-color: white;
+    width: 800px;
+   margin: auto;
+   padding: 10px;
+   margin-top: 20px;
+
+}
+
+.input-food{
+    margin-left: 5px;
+}
+
+.content-box{
+    background-color: white;
+    width: 900px;
+    margin: auto;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.content-items{
+    list-style: none;
+    border: 1px solid #eff1f3;
+    padding: 10px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
